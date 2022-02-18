@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "NameOnAccount": "TestAccount",
+  "BankName": "Test Bank Name",
+  "RoutingNumber": "345678909",
+  "AccountNumber": "345678998765432"
 }
